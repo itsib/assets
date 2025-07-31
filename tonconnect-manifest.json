@@ -1,5 +1,5 @@
 {
-  "url": "https://mydapp.com",
+  "url": "http://localhost:3300",
   "name": "PropTech - Real estate search platform",
   "iconUrl": "https://raw.githubusercontent.com/itsib/assets/master/favicon-180x180.png"
 }
